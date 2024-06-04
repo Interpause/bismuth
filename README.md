@@ -4,6 +4,14 @@
   SPDX-License-Identifier: MIT
 -->
 
+# Note From Me
+
+Hello, I use Bismuth on KDE5 for tiling. I am gonna maintain this fork for as long as I do use Bismuth & am stuck on KDE5, but no guarantees ofc. The latest Bismuth works fine still on X11. I am just pulling in some PRs to try and get it working on Wayland. Namely:
+
+- https://github.com/Bismuth-Forge/bismuth/pull/490
+- https://github.com/Bismuth-Forge/bismuth/pull/480
+- https://github.com/Bismuth-Forge/bismuth/pull/439
+
 <div align="center">
 
 # 🌈 Bismuth 🌈
