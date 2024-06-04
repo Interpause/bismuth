@@ -5,6 +5,8 @@
 
 # Changelog
 
+### [3.1.5](https://www.github.com/Bismuth-Forge/bismuth/compare/v3.1.4...v3.1.5) (2024-06-04)
+
 ### [3.1.4](https://www.github.com/Bismuth-Forge/bismuth/compare/v3.1.3...v3.1.4) (2022-09-19)
 
 
