@@ -12,6 +12,8 @@ Hello, I use Bismuth on KDE5 for tiling. I am gonna maintain this fork for as lo
 - https://github.com/Bismuth-Forge/bismuth/pull/480
 - https://github.com/Bismuth-Forge/bismuth/pull/439
 
+Btw, if you use Gentoo, here's an ebuild: https://github.com/Interpause/sh-scripts/blob/main/ebuilds/kde-misc/bismuth/bismuth-3.1.5.ebuild
+
 <div align="center">
 
 # 🌈 Bismuth 🌈
