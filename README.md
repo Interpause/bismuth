@@ -6,6 +6,8 @@
 
 # Note From Me
 
+EDIT: I'm finally attempting to update to plasma 6, so I probably won't be using this anymore. But hey, there's a Krohnkite fork for plasma 6 that is being maintained: https://github.com/anametologin/krohnkite. I suggest using that since Bismuth was originally a fork of Krohnkite so the functionality & available keybinds are very similar.
+
 Hello, I use Bismuth on KDE5 for tiling. I am gonna maintain this fork for as long as I do use Bismuth & am stuck on KDE5, but no guarantees ofc. The latest Bismuth works fine still on X11. I am just pulling in some PRs to try and get it working on Wayland. Namely:
 
 - https://github.com/Bismuth-Forge/bismuth/pull/490
